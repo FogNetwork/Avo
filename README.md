@@ -9,7 +9,7 @@ A small lightweight bookmarklet (also known as a favlet) with unblocked dev tool
 3. Set the name to `avo` and the URL to the code below or [here](https://github.com/FogNetwork/Avo/blob/main/bookmarklet.txt)
 
 ```js
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Avo/blob/main/avo.min.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Avo/avo.min.js';document.body.appendChild(a);}())
 ```
 
 Click the bookmarklet on any page to activate dev tools!
