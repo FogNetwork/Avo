@@ -15,4 +15,4 @@ javascript:(function () {var a = document.createElement('script');a.src = 'https
 Click the bookmarklet on any page to activate dev tools!
 
 ### Usage
-If you wish to use Avo commercially (on your service) you mist include credit to avo somewhere on your service
+If you wish to use Avo commercially (on your service) you must include credit to Avo somewhere on your service
